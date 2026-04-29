@@ -41,7 +41,7 @@ baseURL: "http://127.0.0.1:8000/api"
 
 ---
 
-## 🚀 4. Jalankan Aplikasi
+ 4. Jalankan Aplikasi
 
 ```bash
 npm start
